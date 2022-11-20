@@ -24,3 +24,14 @@ a {
     background: black;
   }
 }
+
+.container {
+  display: flex;
+}
+
+.qrcode {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
